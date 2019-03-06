@@ -1,4 +1,5 @@
 Sujet - Partie obligatoire
+
 • Vous devez programmer un mini interpréteur de commandes UNIX.
 
 • Cet interpréteur doit afficher un prompt (un simple "$> " par exemple) et attendre
@@ -31,6 +32,7 @@ exit.
 Sujet - Partie bonus
 Pas mal de features seront au menu des 21sh et 42sh. Voici néanmoins une liste de
 bonus que vous pouvez implémenter dès maintenant si le coeur vous en dit :
+
 • La gestion des signaux, et notamment Ctrl-C. L’utilisation de variables globales
 est autorisé dans le cadre de la gestion des signaux.
 
